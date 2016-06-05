@@ -1,0 +1,7 @@
+C:\Bitbucket Projects\Best Practice - AutoFac & Windows Service Implementation\NorthwindLRA\NorthwindLRA.Services\bin\Debug\NorthwindLRA.Services.dll
+C:\Bitbucket Projects\Best Practice - AutoFac & Windows Service Implementation\NorthwindLRA\NorthwindLRA.Services\bin\Debug\NorthwindLRA.Services.pdb
+C:\Bitbucket Projects\Best Practice - AutoFac & Windows Service Implementation\NorthwindLRA\NorthwindLRA.Services\obj\Debug\NorthwindLRA.Services.dll
+C:\Bitbucket Projects\Best Practice - AutoFac & Windows Service Implementation\NorthwindLRA\NorthwindLRA.Services\obj\Debug\NorthwindLRA.Services.pdb
+C:\Bitbucket Projects\Best Practice - AutoFac & Windows Service Implementation\NorthwindLRA\NorthwindLRA.Services\bin\Debug\NorthwindLRA.Contracts.dll
+C:\Bitbucket Projects\Best Practice - AutoFac & Windows Service Implementation\NorthwindLRA\NorthwindLRA.Services\bin\Debug\NorthwindLRA.Contracts.pdb
+C:\Bitbucket Projects\Best Practice - AutoFac & Windows Service Implementation\NorthwindLRA\NorthwindLRA.Services\obj\Debug\NorthwindLRA.Services.csprojResolveAssemblyReference.cache

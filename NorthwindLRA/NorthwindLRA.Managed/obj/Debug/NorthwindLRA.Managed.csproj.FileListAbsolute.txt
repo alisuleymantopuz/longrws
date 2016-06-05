@@ -1,0 +1,16 @@
+C:\Bitbucket Projects\Best Practice - AutoFac & Windows Service Implementation\NorthwindLRA\NorthwindLRA.Managed\bin\Debug\NorthwindLRA.Managed.exe.config
+C:\Bitbucket Projects\Best Practice - AutoFac & Windows Service Implementation\NorthwindLRA\NorthwindLRA.Managed\bin\Debug\NorthwindLRA.Managed.exe
+C:\Bitbucket Projects\Best Practice - AutoFac & Windows Service Implementation\NorthwindLRA\NorthwindLRA.Managed\bin\Debug\NorthwindLRA.Managed.pdb
+C:\Bitbucket Projects\Best Practice - AutoFac & Windows Service Implementation\NorthwindLRA\NorthwindLRA.Managed\obj\Debug\NorthwindLRA.Managed.exe
+C:\Bitbucket Projects\Best Practice - AutoFac & Windows Service Implementation\NorthwindLRA\NorthwindLRA.Managed\obj\Debug\NorthwindLRA.Managed.pdb
+C:\Bitbucket Projects\Best Practice - AutoFac & Windows Service Implementation\NorthwindLRA\NorthwindLRA.Managed\obj\Debug\NorthwindLRA.Managed.csprojResolveAssemblyReference.cache
+C:\Bitbucket Projects\Best Practice - AutoFac & Windows Service Implementation\NorthwindLRA\NorthwindLRA.Managed\bin\Debug\Autofac.dll
+C:\Bitbucket Projects\Best Practice - AutoFac & Windows Service Implementation\NorthwindLRA\NorthwindLRA.Managed\bin\Debug\Autofac.Integration.Wcf.dll
+C:\Bitbucket Projects\Best Practice - AutoFac & Windows Service Implementation\NorthwindLRA\NorthwindLRA.Managed\bin\Debug\NorthwindLRA.Contracts.dll
+C:\Bitbucket Projects\Best Practice - AutoFac & Windows Service Implementation\NorthwindLRA\NorthwindLRA.Managed\bin\Debug\NorthwindLRA.IoC.dll
+C:\Bitbucket Projects\Best Practice - AutoFac & Windows Service Implementation\NorthwindLRA\NorthwindLRA.Managed\bin\Debug\NorthwindLRA.Services.dll
+C:\Bitbucket Projects\Best Practice - AutoFac & Windows Service Implementation\NorthwindLRA\NorthwindLRA.Managed\bin\Debug\NorthwindLRA.Contracts.pdb
+C:\Bitbucket Projects\Best Practice - AutoFac & Windows Service Implementation\NorthwindLRA\NorthwindLRA.Managed\bin\Debug\NorthwindLRA.IoC.pdb
+C:\Bitbucket Projects\Best Practice - AutoFac & Windows Service Implementation\NorthwindLRA\NorthwindLRA.Managed\bin\Debug\NorthwindLRA.Services.pdb
+C:\Bitbucket Projects\Best Practice - AutoFac & Windows Service Implementation\NorthwindLRA\NorthwindLRA.Managed\bin\Debug\Autofac.xml
+C:\Bitbucket Projects\Best Practice - AutoFac & Windows Service Implementation\NorthwindLRA\NorthwindLRA.Managed\bin\Debug\Autofac.Integration.Wcf.xml

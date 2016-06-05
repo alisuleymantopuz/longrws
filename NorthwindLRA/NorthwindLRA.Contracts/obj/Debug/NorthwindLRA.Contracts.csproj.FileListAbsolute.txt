@@ -1,0 +1,4 @@
+C:\Bitbucket Projects\Best Practice - AutoFac & Windows Service Implementation\NorthwindLRA\NorthwindLRA.Contracts\bin\Debug\NorthwindLRA.Contracts.dll
+C:\Bitbucket Projects\Best Practice - AutoFac & Windows Service Implementation\NorthwindLRA\NorthwindLRA.Contracts\bin\Debug\NorthwindLRA.Contracts.pdb
+C:\Bitbucket Projects\Best Practice - AutoFac & Windows Service Implementation\NorthwindLRA\NorthwindLRA.Contracts\obj\Debug\NorthwindLRA.Contracts.dll
+C:\Bitbucket Projects\Best Practice - AutoFac & Windows Service Implementation\NorthwindLRA\NorthwindLRA.Contracts\obj\Debug\NorthwindLRA.Contracts.pdb
